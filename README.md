@@ -17,7 +17,7 @@ I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 
 🐦 [@LispDev](https://x.com/lispdev)
 
-Checkout my repositories and my website at https://julioj.com.
+Checkout my repositories and my website at https://julio.sh.
 
 <img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" />
 
