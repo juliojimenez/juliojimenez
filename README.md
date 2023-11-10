@@ -2,7 +2,7 @@
 
 # Hi I'm Julio! 🚀
 
-I'm passionate about building open source software and am an aspiring indie hacker.
+I'm passionate about building open source software and writing bios is super cringe for me so moving on...
 
 Here are some of my favorite things:
 
