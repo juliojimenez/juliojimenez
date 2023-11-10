@@ -6,10 +6,11 @@ I'm passionate about building open source software and am an aspiring indie hack
 
 Here are some of my favorite things:
 
-- Racket
+- C
 - Common Lisp
-- JavaScript
+- HTMX
 - Python
+- Racket
 
 I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 
@@ -20,8 +21,6 @@ I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 Checkout my repositories and my website at https://julio.sh.
 
 <img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" />
-
-<img src="https://myreadme.vercel.app/api/embed/juliojimenez?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **juliojimenez/juliojimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
