@@ -21,7 +21,7 @@ Checkout my repositories and my website at https://julio.sh.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=clickhouse-cl&theme=radical)](https://github.com/juliojimenez/clickhouse-cl) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=hypermedia.systems&theme=radical)](https://github.com/juliojimenez/hypermedia.systems) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=lip&theme=radical)](https://github.com/juliojimenez/lip)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojimenez&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojimenez&theme=radical&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
