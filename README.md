@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/lispdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 # Hi I'm Julio! 🚀
 
 I'm passionate about building open source software and writing bios is super cringe for me so moving on...
