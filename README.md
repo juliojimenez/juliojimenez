@@ -14,7 +14,7 @@ I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 
 Checkout my repositories and my website at https://julio.sh.
 
-<img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" /> [![wakatime](https://wakatime.com/badge/user/018cc75e-36a8-4f5e-9135-d757b69f6dea.svg)](https://wakatime.com/@018cc75e-36a8-4f5e-9135-d757b69f6dea)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=clickhouse-cl&theme=radical)](https://github.com/juliojimenez/clickhouse-cl) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=hypermedia.systems&theme=radical)](https://github.com/juliojimenez/hypermedia.systems) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bogu-io&repo=bogu&theme=radical)](https://github.com/bogu-io/bogu)
 
