@@ -2,9 +2,18 @@
 
 I'm passionate about building open source software and writing bios is super cringe for me so moving on...
 
-Here are some of my favorite things:
+Here's what I'm playing with right now:
 
-<img src="https://img.shields.io/badge/C-blue" /> <img src="https://img.shields.io/badge/ClickHouse-black?logo=clickhouse" /> <img src="https://img.shields.io/badge/Common%20Lisp-white" /> <img src="https://img.shields.io/badge/HTMX-gray" /> <img src="https://img.shields.io/badge/JavaScript-orange?logo=javascript" /> <img src="https://img.shields.io/badge/Python-yellow?logo=python" /> <img src="https://img.shields.io/badge/Racket-red?logo=racket" />
+- Adding ClickHouse Protocol support to clickhouse-cl.
+- Improving my website with HTMX and Racket templating.
+- Maintaining yamler.
+- bogu, The Secret Scanner.
+- sbomcc, SBOM Parsing for Humans.
+- C
+- Rust
+- Zig
+- Pharo
+- Laravel
 
 I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 
