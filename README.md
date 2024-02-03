@@ -4,16 +4,15 @@ I'm passionate about building open source software and writing bios is super cri
 
 Here's what I'm playing with right now:
 
-- Adding ClickHouse Protocol support to clickhouse-cl.
-- Improving my website with HTMX and Racket templating.
-- Maintaining yamler.
-- bogu, The Secret Scanner.
-- sbomcc, SBOM Parsing for Humans.
+- clickhouse-cl
+- yamler
+- bogu
+- sbom.cc
 - C
 - Rust
 - Zig
 - Pharo
-- Laravel
+- PHP/Laravel
 
 I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
 
