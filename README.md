@@ -1,20 +1,6 @@
 # Hi I'm Julio! 🚀
 
-I'm passionate about building open source software and writing bios is super cringe for me so moving on...
-
-Here's what I'm playing with right now:
-
-- clickhouse-cl
-- yamler
-- bogu
-- sbom.cc
-- C
-- Rust
-- Zig
-- Pharo
-- PHP/Laravel
-
-I work in Cloud Security ☁️🔒 at [ClickHouse](https://clickhouse.com).
+I :hearts: programming and learning old and new programming languages.
 
 <a href="https://fosstodon.org/@julioj" target="_blank"><img src="https://img.shields.io/badge/@julioj-purple?logo=mastodon" /></a>
 
