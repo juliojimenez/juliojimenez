@@ -8,7 +8,7 @@ I :hearts: programming and learning old and new programming languages.
 
 Checkout my repositories and my website at https://julio.sh.
 
-<img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" /> [![wakatime](https://wakatime.com/badge/user/018cc75e-36a8-4f5e-9135-d757b69f6dea.svg)](https://wakatime.com/@018cc75e-36a8-4f5e-9135-d757b69f6dea)
+<img src="https://komarev.com/ghpvc/?username=juliojimenez&color=brightgreen" alt="watching_count" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=clickhouse-cl&theme=radical)](https://github.com/juliojimenez/clickhouse-cl) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliojimenez&repo=hypermedia.systems&theme=radical)](https://github.com/juliojimenez/hypermedia.systems) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SBOMcc&repo=sbomcc&theme=radical)](https://github.com/SBOMcc/sbomcc)
 
